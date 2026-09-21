@@ -28,3 +28,24 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+.gradle
+build/
